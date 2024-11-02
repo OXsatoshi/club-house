@@ -21,10 +21,3 @@ To run this project, you’ll need:
 
 - [Node.js](https://nodejs.org/) installed on your machine
 - A database system like MongoDB (or any preferred database)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/exclusive-clubhouse.git
-   ```
